@@ -1,7 +1,7 @@
 {
   "name": "gatsby-starter-default",
   "private": true,
-  "description": "A luxury travel site showcasing beautiful locations around the world.",
+  "description": "A luxury travel site showcasing beautiful locations around the world",
   "version": "0.1.0",
   "author": "Mo",
   "dependencies": {
